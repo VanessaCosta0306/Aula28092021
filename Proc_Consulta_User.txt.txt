@@ -1,1 +1,2 @@
 Selec* * from Tb_user;
+Select* from Tb_user;
